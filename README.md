@@ -1,6 +1,6 @@
 # DW2Launcher 1.0.1 — Updated Version After Game Update
 
-![image](https://github.com/user-attachments/assets/05b5cd5b-3035-4408-8d7a-a630e7f86c96)
+[image](https://github.com/user-attachments/assets/05b5cd5b-3035-4408-8d7a-a630e7f86c96)
 
 ## Installation
 
@@ -21,7 +21,7 @@ Welcome to **DW2Launcher** — an innovative launcher designed to elevate your g
   - **Vibrant Characters After Death:** Now, when you die, your character retains its vibrant colors instead of turning gray.
   - **Realistic Fall:** Instead of being tossed far away, your character now falls naturally after a fall or death, providing more lifelike physics.
 
-![1228](https://github.com/user-attachments/assets/8f0bdd67-703a-4167-9e00-772205fc4f2c)
+[1228](https://github.com/user-attachments/assets/8f0bdd67-703a-4167-9e00-772205fc4f2c)
 
 <p align="center">
 Please note: competitive match is back. You can play competetive with this launcher.

@@ -24,7 +24,7 @@ Welcome to **DW2Launcher** — an innovative launcher designed to elevate your g
 ![1228](https://github.com/user-attachments/assets/8f0bdd67-703a-4167-9e00-772205fc4f2c)
 
 <p align="center">
-Please note: competitive match participation is disabled.
+Please note: competitive match is back. You can play competetive with this launcher.
 </p>
 
 ---

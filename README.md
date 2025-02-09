@@ -4,8 +4,14 @@
 
 ## Installation
 
-1. Download Managed.rar , unzip to the folder `your steam library\steamapps\common\Drunken Wrestlers 2\DW2_Data\Managed`
-2. Download the launcher, then follow the instructions in the launcher
+
+1) Install the **beta version** of the game through **the steam library**
+![image](https://github.com/user-attachments/assets/2c675d74-f5b2-4b57-97a9-837db9e19d13)
+
+2) Download and launch the launcher. Click launch, wait until the necessary game files are installed. 
+3) Then a folder selection window will appear. You need to choose something like this path:
+`your path to steam\steam\steamapps\common\Drunken Wrestlers 2\DW2_Data\Managed`
+4) Do not close the launcher window when you start the game
 
 ## Overview
 

@@ -13,6 +13,9 @@
 `your path to steam\steam\steamapps\common\Drunken Wrestlers 2\DW2_Data\Managed`
 4) Do not close the launcher window when you start the game
 
+## Why do you need to install the beta version?
+The latest update of the game has made **it impossible to bind actions** to the side mouse keys, and also **breaks character customization** presets.
+
 ## Overview
 
 Welcome to **DW2Launcher** — an innovative launcher designed to elevate your gaming experience to new heights of engagement and comfort! Released after the latest game update, this launcher integrates cutting-edge technology with finely tuned character physics, ensuring that control is more intuitive and reliable than ever before.

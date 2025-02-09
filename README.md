@@ -1,7 +1,11 @@
-# DW2Launcher 0.0.1 — Updated Version After Game Update
+# DW2Launcher 1.0.1 — Updated Version After Game Update
 
 ![image](https://github.com/user-attachments/assets/05b5cd5b-3035-4408-8d7a-a630e7f86c96)
 
+## Installation
+
+1. Download Managed.rar , unzip to the folder `your steam library\steamapps\common\Drunken Wrestlers 2\DW2_Data\Managed`
+2. Download the launcher, then follow the instructions in the launcher
 
 ## Overview
 
@@ -22,13 +26,6 @@ Welcome to **DW2Launcher** — an innovative launcher designed to elevate your g
 <p align="center">
 Please note: competitive match participation is disabled.
 </p>
-
-## Installation
-
-1. Download the latest release.
-2. Launch the launcher, click **"Launch"** and select the game's **Managed** folder:  
-   `your steam library\steamapps\common\Drunken Wrestlers 2\DW2_Data\Managed`
-3. Enjoy the game!
 
 ---
 

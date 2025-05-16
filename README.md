@@ -1,18 +1,12 @@
 # DW2Launcher 1.0.1 — Updated Version After Game Update
 
-
-
 ## Installation
 ![image](https://github.com/user-attachments/assets/9f641ef0-fccc-4a96-9d5a-d42fc64b5e65)
 
-
-1) Install the **beta version** of the game through **the steam library**
-![image](https://github.com/user-attachments/assets/2c675d74-f5b2-4b57-97a9-837db9e19d13)
-
-2) Download and launch the launcher. Click launch, wait until the necessary game files are installed. 
-3) Then a folder selection window will appear. You need to choose something like this path:
+1) Download and launch the launcher. Click launch, wait until the necessary game files are installed. 
+2) Then a folder selection window will appear. You need to choose something like this path:
 `your path to steam\steam\steamapps\common\Drunken Wrestlers 2\DW2_Data\Managed`
-4) Do not close the launcher window when you start the game
+3) Do not close the launcher window when you start the game
 
 ## Why do you need to install the beta version?
 The latest update of the game has made **it impossible to bind actions** to the side mouse keys, and also **breaks character customization** presets.

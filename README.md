@@ -1,8 +1,9 @@
 # DW2Launcher 1.0.1 — Updated Version After Game Update
 
-![image](https://github.com/user-attachments/assets/05b5cd5b-3035-4408-8d7a-a630e7f86c96)
+
 
 ## Installation
+![image](https://github.com/user-attachments/assets/9f641ef0-fccc-4a96-9d5a-d42fc64b5e65)
 
 
 1) Install the **beta version** of the game through **the steam library**
